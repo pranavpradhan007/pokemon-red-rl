@@ -1,0 +1,5 @@
+setup.py
+pokemon_rl_project.egg-info/PKG-INFO
+pokemon_rl_project.egg-info/SOURCES.txt
+pokemon_rl_project.egg-info/dependency_links.txt
+pokemon_rl_project.egg-info/top_level.txt
